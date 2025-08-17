@@ -1,4 +1,4 @@
-package graph;
+package graphdfs;
 
 class Trie {
     Node root = new Node();

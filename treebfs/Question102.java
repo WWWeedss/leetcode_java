@@ -1,4 +1,6 @@
-package tree;
+package treebfs;
+
+import treedfs.TreeNode;
 
 import java.util.ArrayDeque;
 import java.util.ArrayList;

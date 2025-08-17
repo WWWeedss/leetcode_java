@@ -1,4 +1,4 @@
-package tree;
+package treedfs;
 
 public class Question98_inOrder {
     private Long lastVal = Long.MIN_VALUE;

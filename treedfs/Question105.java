@@ -1,4 +1,4 @@
-package tree;
+package treedfs;
 
 public class Question105 {
     public TreeNode buildTree(int[] preorder, int[] inorder) {
